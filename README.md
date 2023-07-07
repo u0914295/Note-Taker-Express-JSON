@@ -13,17 +13,15 @@ The first command `npm install` is necessary to install all the project dependen
 
 ## Usage
 
-Once the application has been accessed and started, the application should look like the following screenshot:
+Once the application has been accessed and started (by clicking the "Get Started" button), the application should look like the following screenshot:
 
 [![Screenshot-2023-07-06-195525.png](https://i.postimg.cc/YqBN37RV/Screenshot-2023-07-06-195525.png)](https://postimg.cc/yWnS1wwX)
 
-To add a note, click the '+' symbol in the upper right-hand corner.
-
-Once you have clicked the '+' button, the application will ask for a title for the notes. After a title has been added, the notes content can then be filled in. After you have entered in all the content for that note, click the save icon in the upper right-hand corner, as shown in the following screenshot:
+To add a note, click the '+' symbol in the upper right-hand corner. Once you have clicked the '+' button, the application will ask for a title for the notes. After a title has been added, the notes content can then be filled in. After you have entered in all the content for that note, click the save icon in the upper right-hand corner, as shown in the following screenshot:
 
 [![Screenshot-2023-07-06-195657.png](https://i.postimg.cc/hPGDNz27/Screenshot-2023-07-06-195657.png)](https://postimg.cc/9zvH7M5W)
 
 
-If you need to delete a note, click the red trashcan icon next to the titled note as shown in this screenshot:
+The note has now been saved! If you need to delete a note, click the red trashcan icon next to the titled note as shown in this screenshot:
 
 [![Screenshot-2023-07-06-195731.png](https://i.postimg.cc/C5rgw7cn/Screenshot-2023-07-06-195731.png)](https://postimg.cc/PvDc4Wsd)
