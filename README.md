@@ -6,9 +6,24 @@ My motivation for creating this application was to create a note taking applicat
 ## Installation
 To get the application running on your local machine, you need to run the following commands in your terminal, in the project directory:
 
-npm install
-npm start
+1) 'npm install'
+2) 'npm start'
 
 The first command `npm install` is necessary to install all the project dependencies, including Express.js. The second command `npm start` will start the server and you can then access the application at http://localhost:3000.
 
 ## Usage
+
+Once the application has been accessed and started, the application should look like the following screenshot:
+
+[![Screenshot-2023-07-06-195525.png](https://i.postimg.cc/YqBN37RV/Screenshot-2023-07-06-195525.png)](https://postimg.cc/yWnS1wwX)
+
+To add a note, click the '+' symbol in the upper right-hand corner.
+
+Once you have clicked the '+' button, the application will ask for a title for the notes. After a title has been added, the notes content can then be filled in. After you have entered in all the content for that note, click the save icon in the upper right-hand corner, as shown in the following screenshot:
+
+[![Screenshot-2023-07-06-195657.png](https://i.postimg.cc/hPGDNz27/Screenshot-2023-07-06-195657.png)](https://postimg.cc/9zvH7M5W)
+
+
+If you need to delete a note, click the red trashcan icon next to the titled note as shown in this screenshot:
+
+[![Screenshot-2023-07-06-195731.png](https://i.postimg.cc/C5rgw7cn/Screenshot-2023-07-06-195731.png)](https://postimg.cc/PvDc4Wsd)
